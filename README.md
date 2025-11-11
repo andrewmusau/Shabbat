@@ -21,6 +21,9 @@ psacalc (from SSC)
 To install these packages in Stata, run:
 
 ssc install boottest, replace
+
 ssc install estout, replace
+
 net install gr0034, from(http://www.stata-journal.com/software/sj8-2)
+
 ssc install psacalc, replace
