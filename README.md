@@ -11,8 +11,11 @@ All replication code was written for Stata version 18 or higher.
 The following community-contributed Stata packages are required (available from SSC or the Stata Journal):
 
 boottest (from SSC)
+
 estout (from SSC)
+
 labmask (from the Stata Journal)
+
 psacalc (from SSC)
 
 To install these packages in Stata, run:
