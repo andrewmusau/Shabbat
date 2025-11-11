@@ -34,3 +34,4 @@ Do files
 The file Shabbat analysis.do reproduces Tables 1–7 in the paper and Tables A1–A6 
 
 The file Oster robustness.do reproduces Table 8 in the paper 
+
