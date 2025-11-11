@@ -8,6 +8,7 @@ The dataset, Shabbat.dta, contains the data used for all empirical analyses repo
 Software Requirements
 
 All replication code was written for Stata version 18 or higher.
+
 The following community-contributed Stata packages are required (available from SSC or the Stata Journal):
 
 boottest (from SSC)
@@ -31,4 +32,5 @@ ssc install psacalc, replace
 Do files
 
 The file Shabbat analysis.do reproduces Tables 1–7 in the paper and Tables A1–A6 
+
 The file Oster robustness.do reproduces Table 8 in the paper 
